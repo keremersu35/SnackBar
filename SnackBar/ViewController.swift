@@ -14,7 +14,15 @@ final class ViewController: UIViewController {
     }()
     
     @objc private func onTapButton() {
-        SnackBar.shared.showSnackbar(title: "This is a title", description: "It's a message for the SnackBar ! It's a message for the SnackBar ! It's a message for the SnackBar ! It's a message for the SnackBar !", animation: .slide)
+        SnackBar.shared.showSnackbar(
+            title: "Success Title",
+            description: "This is a success snackbar message!",
+            logo: UIImage(systemName: "checkmark.circle.fill"),
+            backgroundColor: .systemGreen,
+            position: .bottom,
+            animation: .fade,
+            duration: 2
+        )
     }
 
     override func viewDidLoad() {
@@ -33,4 +41,3 @@ final class ViewController: UIViewController {
         ])
     }
 }
-
