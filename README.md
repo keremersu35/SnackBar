@@ -1,3 +1,2 @@
 
-<img src="/gifs/gif1.gif" width="250" height="250"/>
-![](https://github.com/keremersu35/SnackBar/blob/main/gifs/gif1.gif) ![](https://github.com/keremersu35/SnackBar/blob/main/gifs/gif2.gif) ![](https://github.com/keremersu35/SnackBar/blob/main/gifs/gif3.gif)
+<img src="/gifs/gif1.gif" width="589" height="1278"/> <img src="/gifs/gif2.gif" width="589" height="1278"/> <img src="/gifs/gif3.gif" width="589" height="1278"/>
